@@ -11,7 +11,13 @@
 ###
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/iremturen?theme=light&font=Noto%20Sans%20Old%20Hungarian)
+&nbsp;&nbsp;&nbsp;<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhpb2UzenFkeXBkcjVrd2cxZ3F1cDRsdXN1bTBqZ2hlaWVmd3Q2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pn6lIQBz4eCH3wS6aK/giphy.gif" />
 
+
+
+###
+###
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
