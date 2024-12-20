@@ -7,7 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremturen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+![LeetCode Stats](https://leetcard.jacoblin.cool/iremturen?theme=light&font=Noto%20Sans%20Old%20Hungarian)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
